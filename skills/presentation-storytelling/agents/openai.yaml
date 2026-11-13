@@ -1,0 +1,4 @@
+interface:
+  display_name: "视觉提案与演示讲述"
+  short_description: "适用于视觉提案、设计评审和产品汇报的页面编排与讲稿迭代"
+  default_prompt: "用 $presentation-storytelling 把现有参考、方向比较和推荐理由整理成可编辑的视觉提案。"
